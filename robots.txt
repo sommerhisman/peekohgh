@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaenoosa.go4developer.com/sitemap.xml
